@@ -1,0 +1,4 @@
+"|--my_project\n |--settings\n  |--__init__.py\n  |--dev.py\n  |--prod.py\n |--mainapp\n\
+  \  |--__init__.py\n  |--models.py\n  |--views.py\n  |--templates\n  |--mainapp\n\
+  \  |--base.html\n  |--index.html\n |--authapp\n  |--__init__.py\n  |--models.py\n\
+  \  |--views.py\n  |--templates\n  |--authapp\n  |--base.html\n  |--index.html"
