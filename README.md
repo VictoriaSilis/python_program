@@ -1,4 +1,4 @@
-Решение задания в файле Ninth_lesson.py 
+Решение заданий в файле Ninth_lesson.py 
 
 1. Создать класс TrafficLight (светофор):
 
